@@ -40,7 +40,8 @@
     "lodash.get": "^4",
     "make-error": "^1",
     "ts-node": "^8",
-    "tslib": "^2"
+    "tslib": "^2",
+    "typescript": "^3"
   },
   "devDependencies": {
     "@commitlint/cli": "^8",
@@ -66,7 +67,6 @@
     "tslint": "^5",
     "tslint-config-prettier": "^1",
     "tslint-eslint-rules": "^5",
-    "typedoc": "^0.17.7",
-    "typescript": "^3"
+    "typedoc": "^0.17.7"
   }
 }
